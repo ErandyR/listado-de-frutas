@@ -15,4 +15,4 @@ _________
 _________
 3 Creacion de GitHub pages:
 - En nuestro repositorio nos dirigimos a "settings" y cambiamos la opcion en "source",
-  la cual se encuentra en "none-2 por "master branch-"
+  la cual se encuentra en "none" por "master branch"
